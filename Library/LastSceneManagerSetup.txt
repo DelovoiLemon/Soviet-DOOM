@@ -1,0 +1,4 @@
+sceneSetups:
+- path: G:/New Unity Project/Assets/UI.unity
+  isLoaded: 1
+  isActive: 1
