@@ -965,7 +965,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 08bdae8d6f4982c468c57245017b926e, type: 3}
+      - m_Target: {fileID: 11500000, guid: b995d26125153ac4b861d544efc9c4e8, type: 3}
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
@@ -1997,7 +1997,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1977194687}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 102900000, guid: 86ca5d05d00cd574dad16992339b02f3, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1977194687
