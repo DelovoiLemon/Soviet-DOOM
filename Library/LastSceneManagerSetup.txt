@@ -1,4 +1,5 @@
 sceneSetups:
-- path: G:/New Unity Project/Assets/UI.unity
+- path: E:/dima/ITstep/New Unity Project/Assets/easy 1.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
