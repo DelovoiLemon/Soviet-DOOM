@@ -276,9 +276,6 @@
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
- <Reference Include="Assembly-CSharp-firstpass">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
- </Reference>
  <Reference Include="EasyRoads3Dv3">
  <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Assets/Include/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
  </Reference>

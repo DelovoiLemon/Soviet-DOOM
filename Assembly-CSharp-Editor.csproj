@@ -266,9 +266,6 @@
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
- <Reference Include="Assembly-CSharp-firstpass">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.VR">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
  </Reference>
@@ -290,11 +287,11 @@
  <Reference Include="UnityEditor.UWP.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="EasyRoads3Dv3">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Assets/Include/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
- </Reference>
  <Reference Include="EasyRoads3Dv3Editor">
  <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Assets/Include/EasyRoads3D/Editor/EasyRoads3Dv3Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="EasyRoads3Dv3">
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Assets/Include/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>E:/dima/ITstep/Soviet DOOM/Map/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
