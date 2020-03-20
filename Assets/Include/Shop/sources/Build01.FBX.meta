@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: b0f988620f3b913458aafa06b0489228
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fundament
+    100004: Kolonna_beton
+    100006: Krilzho
+    100008: Krisha
+    100010: Magazin
+    100012: Metall_List
+    100014: Plitka_decal
+    100016: PlitkaFasad
+    100018: Prilavok_wood
+    100020: Wall
+    100022: Wall_interior
+    100024: Windows
+    400000: //RootNode
+    400002: Fundament
+    400004: Kolonna_beton
+    400006: Krilzho
+    400008: Krisha
+    400010: Magazin
+    400012: Metall_List
+    400014: Plitka_decal
+    400016: PlitkaFasad
+    400018: Prilavok_wood
+    400020: Wall
+    400022: Wall_interior
+    400024: Windows
+    2100000: 09 - Default
+    2100002: 01 - Default
+    2100004: Plitka05
+    2100006: 06 - Default
+    2100008: 03 - Default
+    2100010: 02 - Default
+    2100012: 07 - Default
+    2100014: 11 - Default
+    2100016: Metall01
+    2100018: 13 - Default
+    2100020: 17 - Default
+    2100022: 21 - Default
+    2100024: Tiled_arh
+    2100026: 10 - Default
+    2300000: Fundament
+    2300002: Kolonna_beton
+    2300004: Krilzho
+    2300006: Krisha
+    2300008: Magazin
+    2300010: Metall_List
+    2300012: Plitka_decal
+    2300014: PlitkaFasad
+    2300016: Prilavok_wood
+    2300018: Wall
+    2300020: Wall_interior
+    2300022: Windows
+    3300000: Fundament
+    3300002: Kolonna_beton
+    3300004: Krilzho
+    3300006: Krisha
+    3300008: Magazin
+    3300010: Metall_List
+    3300012: Plitka_decal
+    3300014: PlitkaFasad
+    3300016: Prilavok_wood
+    3300018: Wall
+    3300020: Wall_interior
+    3300022: Windows
+    4300000: Fundament
+    4300002: Krilzho
+    4300004: Wall
+    4300006: PlitkaFasad
+    4300008: Metall_List
+    4300010: Magazin
+    4300012: Windows
+    4300014: Plitka_decal
+    4300016: Krisha
+    4300018: Prilavok_wood
+    4300020: Kolonna_beton
+    4300022: Wall_interior
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
