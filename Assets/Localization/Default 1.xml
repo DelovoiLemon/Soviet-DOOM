@@ -1,0 +1,21 @@
+<Locale>
+  <text id="1" value="About" />
+  <text id="2" value="New Text 01" />
+  <text id="3" value="New Text 02" />
+  <text id="4" value="New Text 03" />
+  <text id="5" value="New Text 04" />
+  <text id="6" value="Audio" />
+  <text id="7" value="Back" />
+  <text id="8" value="Easy" />
+  <text id="9" value="Difficulty" />
+  <text id="10" value="Exit" />
+  <text id="11" value="Full screen" />
+  <text id="12" value="GFX settings" />
+  <text id="13" value="Option A" />
+  <text id="14" value="Hard" />
+  <text id="15" value="Language" />
+  <text id="16" value="Soviet DOOM" />
+  <text id="17" value="Play" />
+  <text id="18" value="Resolution settings" />
+  <text id="19" value="Settings" />
+</Locale>

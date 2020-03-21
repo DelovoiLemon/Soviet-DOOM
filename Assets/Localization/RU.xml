@@ -1,0 +1,21 @@
+<Locale>
+  <text id="1" value="ОБ Игре" />
+  <text id="2" value="New Text 01" />
+  <text id="3" value="New Text 02" />
+  <text id="4" value="New Text 03" />
+  <text id="5" value="New Text 04" />
+  <text id="6" value="Звук" />
+  <text id="7" value="Назад" />
+  <text id="8" value="Лёгкий" />
+  <text id="9" value="Сложность" />
+  <text id="10" value="Выход" />
+  <text id="11" value="Полноэкранный режим" />
+  <text id="12" value="Настройки графики" />
+  <text id="13" value="Option A" />
+  <text id="14" value="Сложный" />
+  <text id="15" value="Язык" />
+  <text id="16" value="Soviet DOOM" />
+  <text id="17" value="Играть" />
+  <text id="18" value="Разрешение" />
+  <text id="19" value="Настройки" />
+</Locale>

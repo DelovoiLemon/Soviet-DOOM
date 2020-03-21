@@ -59,8 +59,13 @@
      <Compile Include="Assets\Include\Full Body FPS Controller\Full Body FPS Controller\Scripts\PlayerCamera.cs" />
      <Compile Include="Assets\Include\Full Body FPS Controller\Full Body FPS Controller\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Include\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Scripts\MainControls.cs" />
+     <Compile Include="Assets\Scripts\Localization.cs" />
+     <Compile Include="Assets\Scripts\LocalizationEditor.cs" />
+     <Compile Include="Assets\Scripts\MenuControls.cs" />
+     <Compile Include="Assets\Scripts\Settings.cs" />
      <Compile Include="Assets\Scripts\uselessChecker.cs" />
+     <None Include="Assets\Localization\Default 1.xml" />
+     <None Include="Assets\Localization\Default.xml" />
      <None Include="Assets\Include\Jeremy\Docs\MaleCharacterAnimation.txt" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader" />
@@ -73,6 +78,7 @@
      <None Include="Assets\Include\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader" />
+     <None Include="Assets\Localization\RU.xml" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
