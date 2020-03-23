@@ -12,7 +12,17 @@ public class MenuControls : MonoBehaviour
 
     public void PlayPressed()
     {
-        SceneManager.LoadScene("Game");
+        switch(difficulty)
+        {
+            case 0:
+                SceneManager.LoadScene("Game");
+                break;
+            
+            
+            case 1:
+                SceneManager.LoadScene("Map Hard");
+                break;
+        }
     }
 
     public void ExitPressed()

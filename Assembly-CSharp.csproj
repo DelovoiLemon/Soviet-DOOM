@@ -64,44 +64,48 @@
      <Compile Include="Assets\Scripts\MenuControls.cs" />
      <Compile Include="Assets\Scripts\Settings.cs" />
      <Compile Include="Assets\Scripts\uselessChecker.cs" />
+     <None Include="Assets\Map\Downtown\Readme.txt" />
      <None Include="Assets\Include\Jeremy\Docs\MaleCharacterAnimation.txt" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
+     <None Include="Assets\Map\ScannedRocks\BonusShaders\Old\SnowOnRockShader.shader" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader" />
      <None Include="Assets\Include\EasyRoads3D\prefab meshes\_custom prefabs.txt" />
      <None Include="Assets\Include\EasyRoads3D\_readme .txt" />
+     <None Include="Assets\Map\Rocks\readme.txt" />
      <None Include="Assets\Include\EasyRoads3D\prefab sources\_custom prefabs.txt" />
      <None Include="Assets\Include\EasyRoads3D\_Release Notes.txt" />
      <None Include="Assets\Include\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt" />
      <None Include="Assets\Include\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader" />
      <None Include="Assets\Include\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader" />
+     <None Include="Assets\Map\ScannedRocks\BonusShaders\New\OnTheTopShader.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -281,7 +285,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="EasyRoads3Dv3">
- <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM-test/Soviet-DOOM/Assets/Include/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
+ <HintPath>E:/dima/ITstep/Soviet DOOM/Soviet-DOOM/Assets/Include/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.8f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

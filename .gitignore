@@ -1,3 +1,7 @@
 Temp/
 **/?ogs 
 Library/
+*.log
+Packages/
+Assembly*.csproj
+Soviet-DOOM.sln
