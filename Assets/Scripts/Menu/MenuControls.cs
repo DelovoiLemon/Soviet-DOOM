@@ -12,6 +12,8 @@ public class MenuControls : MonoBehaviour
 
     public void PlayPressed()
     {
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
         switch(difficulty)
         {
             case 0:
