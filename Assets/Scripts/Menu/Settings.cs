@@ -7,17 +7,17 @@ using UnityEngine.UI;
 
 public class Settings : MonoBehaviour
 {    
-    //public AudioMixer am;
+    public AudioMixer am;
     Resolution[] rsl;
     List<string> resolutions;
     public Dropdown dropdown;
     bool isFullScreen = true;
 
 
-    // public void AudioVolume(float sliderValue)
-    // {
-    //     am.SetFloat("masterVolume", sliderValue);
-    // }
+    public void AudioVolume(float sliderValue)
+    {
+        am.SetFloat("masterVolume", sliderValue);
+    }
 
 
     public void FullScreenToggle()
