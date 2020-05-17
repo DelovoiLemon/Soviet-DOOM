@@ -8,8 +8,6 @@ using UnityEngine.SceneManagement;
 public class MenuControls : MonoBehaviour
 {
     public int difficulty = 0;
-
-
     public void PlayPressed()
     {
         Cursor.visible = false;

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{11AEE1B9-8269-1A0D-C91D-BCDE209B6195}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Recorder.Samples.Editor", "Unity.Recorder.Samples.Editor.csproj", "{EBECE9FF-4386-F5B1-4883-886AC0364295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{11AEE1B9-8269-1A0D-C91D-BCDE209B6195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11AEE1B9-8269-1A0D-C91D-BCDE209B6195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11AEE1B9-8269-1A0D-C91D-BCDE209B6195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBECE9FF-4386-F5B1-4883-886AC0364295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBECE9FF-4386-F5B1-4883-886AC0364295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBECE9FF-4386-F5B1-4883-886AC0364295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBECE9FF-4386-F5B1-4883-886AC0364295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

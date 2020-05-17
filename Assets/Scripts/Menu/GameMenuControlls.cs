@@ -32,7 +32,6 @@ public class GameMenuControlls : MonoBehaviour
             else if (Input.GetKey (KeyCode.N))
             {
                 state = false;
-                menu.transform.gameObject.SetActive(false);
             }
         }
     }
