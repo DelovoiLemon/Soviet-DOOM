@@ -75,7 +75,7 @@ public class Settings : MonoBehaviour
             langDropdown.value = this.lang;
 
             this.isFullScreen = data.isFullScreen;
-            isFSc.isOn = data.isFullScreen;
+            isFSc.isOn = !data.isFullScreen;
         }
     }
 
