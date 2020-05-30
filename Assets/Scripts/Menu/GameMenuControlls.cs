@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class GameMenuControlls : MonoBehaviour
 {
     public GameObject menu;
+    public GameObject s;
     bool state = false;
     // Start is called before the first frame update
     void Start()
@@ -21,6 +22,7 @@ public class GameMenuControlls : MonoBehaviour
         if(state)
         {
             menu.transform.gameObject.SetActive(true);
+            s.transform.gameObject.SetActive(false);
             if (Input.GetKey (KeyCode.Y))
             {
                 state = false;
@@ -32,6 +34,8 @@ public class GameMenuControlls : MonoBehaviour
             else if (Input.GetKey (KeyCode.N))
             {
                 state = false;
+                menu.transform.gameObject.SetActive(false);
+                s.transform.gameObject.SetActive(true);
             }
         }
     }
