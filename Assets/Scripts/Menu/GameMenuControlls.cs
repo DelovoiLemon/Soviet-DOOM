@@ -8,6 +8,8 @@ public class GameMenuControlls : MonoBehaviour
 {
     public GameObject menu;
     public GameObject s;
+    public GameObject gun;
+    
     bool state = false;
     // Start is called before the first frame update
     void Start()
